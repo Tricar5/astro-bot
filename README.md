@@ -1,4 +1,4 @@
-# Russian Horoscope Bot
+# Horoscope Bot (russian)
 
 Всем привет! 
 
