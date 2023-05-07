@@ -1,4 +1,8 @@
-
+"""Main cmd file"""
+import asyncio
+import logging
+from bot.config import settings
+from aiogram import Dispatcher, Bot
 
 
 async def main() -> None:
